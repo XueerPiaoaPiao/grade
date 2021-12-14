@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/npm/dt/grade-js.svg)](https://www.npmjs.com/package/grade-js)
 
-## Demo
+## Demo.
 
 [Check it out](https://benhowdle89.github.io/grade/)
 
